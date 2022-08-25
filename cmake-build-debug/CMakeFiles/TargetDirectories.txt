@@ -1,0 +1,3 @@
+C:/Users/braian/Desktop/CentroCultural mio/ejercicio_cure/cmake-build-debug/CMakeFiles/CentroCultural_mio.dir
+C:/Users/braian/Desktop/CentroCultural mio/ejercicio_cure/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/braian/Desktop/CentroCultural mio/ejercicio_cure/cmake-build-debug/CMakeFiles/rebuild_cache.dir

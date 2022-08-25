@@ -1,0 +1,18 @@
+# ninja log v5
+30	1740	6831698724247970	CMakeFiles/CentroCultural_mio.dir/disco.cpp.obj	727ebe20e4a83a59
+54	1747	6831698724247970	CMakeFiles/CentroCultural_mio.dir/material.cpp.obj	3ef1c46ccfcb889c
+46	1514	6831698848964869	CMakeFiles/CentroCultural_mio.dir/libro.cpp.obj	e9c19e1d8d625222
+15	1175	6831700422318849	CMakeFiles/CentroCultural_mio.dir/peticion.cpp.obj	ce1a4ce7233745ee
+12	1516	6831700747301760	CMakeFiles/CentroCultural_mio.dir/main.cpp.obj	2b3c93bb29d53324
+6	807	6831700891114129	CMakeFiles/CentroCultural_mio.dir/cliente.cpp.obj	cf02dd5404d3be31
+809	1120	6831700894115032	CentroCultural_mio.exe	f084ab2f8217b9b5
+7	1378	6831703390058663	CMakeFiles/CentroCultural_mio.dir/main.cpp.obj	2b3c93bb29d53324
+1379	1598	6831703391979646	CentroCultural_mio.exe	f084ab2f8217b9b5
+11	999	6831704614332964	CMakeFiles/CentroCultural_mio.dir/main.cpp.obj	2b3c93bb29d53324
+1001	1222	6831704616633083	CentroCultural_mio.exe	f084ab2f8217b9b5
+6	1198	6831707842299546	CMakeFiles/CentroCultural_mio.dir/cliente.cpp.obj	cf02dd5404d3be31
+18	1201	6831707842319551	CMakeFiles/CentroCultural_mio.dir/peticion.cpp.obj	ce1a4ce7233745ee
+15	1221	6831707842619560	CMakeFiles/CentroCultural_mio.dir/main.cpp.obj	2b3c93bb29d53324
+1222	1470	6831707844960379	CentroCultural_mio.exe	f084ab2f8217b9b5
+9	828	6831708526467808	CMakeFiles/CentroCultural_mio.dir/cliente.cpp.obj	cf02dd5404d3be31
+829	1169	6831708529577794	CentroCultural_mio.exe	f084ab2f8217b9b5
